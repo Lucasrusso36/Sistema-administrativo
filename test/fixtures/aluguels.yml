@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  preco: 9.99
+  status: false
+  data_retirada: 2021-03-28 20:32:03
+  data_devolucao: 2021-03-28 20:32:03
+  carro_id: 1
+  cliente_id: 1
+
+two:
+  preco: 9.99
+  status: false
+  data_retirada: 2021-03-28 20:32:03
+  data_devolucao: 2021-03-28 20:32:03
+  carro_id: 1
+  cliente_id: 1
